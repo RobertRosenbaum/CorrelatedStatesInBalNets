@@ -1,5 +1,5 @@
 This folder contains Matlab code for reproducing figures in the paper titled
-"The correlated state in balanced neuronal networks"
+"Correlated states in balanced neuronal networks"
 by Cody Baker, Christopher Ebsch, Ilan Lampl, and Robert Rosenbaum
 
 Please cite this paper in any publications for which you use this code or any derivatives thereof.
